@@ -6,6 +6,6 @@ for(var i=0;i<portfolioImgs.length;i++) {
     let url='url(../images/portfolio-image-'+i+'.jpg)';
     i=i-1;
     console.log(portfolioImgs[i].style);
-    portfolioImgs[i].style.backgroundImage=url.toString();
+    portfolioImgs[i].style.backgroundImage=url;
     portfolioImgs[i].style.backgroundPosition='center center';
 }
