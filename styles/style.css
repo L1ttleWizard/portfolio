@@ -265,6 +265,25 @@ font-size:1.25rem;
     min-width:365px;
     height:404px;
     background-color: white;
+    background-position:center center;
+}
+.portfolio-image-1{
+    background-image: url('../images/portfolio-image-1.jpg');
+}
+.portfolio-image-2{
+    background-image: url('../images/portfolio-image-2.jpg');
+}
+.portfolio-image-3{
+    background-image: url('../images/portfolio-image-3.jpg');
+}
+.portfolio-image-4{
+    background-image: url('../images/portfolio-image-4.jpg');
+}
+.portfolio-image-5{
+    background-image: url('../images/portfolio-image-5.jpg');
+}
+.portfolio-image-6{
+    background-image: url('../images/portfolio-image-6.jpg');
 }
 
 .portfolio-item-content {
